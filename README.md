@@ -1,2 +1,2 @@
 # PA_Python
-material criado na aula de programaçao augoritmo da etec mcm
+material criado na aula de programaçao algoritmo da etec mcm
